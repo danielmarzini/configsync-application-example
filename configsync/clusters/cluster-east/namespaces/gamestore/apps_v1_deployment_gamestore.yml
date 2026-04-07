@@ -4,6 +4,7 @@ metadata:
   labels:
     run: demo-app 
     test: daniel
+    test2: daniel
   name: demo-app 
 spec:
   replicas: 1
