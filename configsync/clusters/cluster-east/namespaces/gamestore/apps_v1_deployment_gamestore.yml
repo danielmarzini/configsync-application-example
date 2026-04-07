@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     run: demo-app 
-    test: daniel
+    test: daniel #test
     test2: daniel2 #modified
   name: demo-app 
 spec:
