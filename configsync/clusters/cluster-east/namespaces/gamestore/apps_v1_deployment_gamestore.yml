@@ -4,6 +4,7 @@ metadata:
   labels:
     run: demo-app 
     test: daniel
+    test2: pippo
     test3: daniel
   name: demo-app 
 spec:
